@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Prj_JDOV_MVCBibliotecaApp
+build_property.RootNamespace = Prj_JDOV_MVCBibliotecaApp
+build_property.ProjectDir = C:\Users\ADMIN\source\repos\JDOV-Laboratorio2-MVC\Sln_Ocampo_Juan_Laboratorio2\Prj_JDOV_MVCBibliotecaApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\source\repos\JDOV-Laboratorio2-MVC\Sln_Ocampo_Juan_Laboratorio2\Prj_JDOV_MVCBibliotecaApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Libroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Libroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Libroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Libroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Libroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/ObtenerPrestamosxUsuarioSP/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2J0ZW5lclByZXN0YW1vc3hVc3VhcmlvU1BcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/ObtenerPrestamosxUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2J0ZW5lclByZXN0YW1vc3hVc3VhcmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Prestamoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Prestamoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Prestamoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Prestamoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Prestamoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/JDOV-Laboratorio2-MVC/Sln_Ocampo_Juan_Laboratorio2/Prj_JDOV_MVCBibliotecaApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oc96vx2avc
